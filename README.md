@@ -76,7 +76,7 @@
 
 ### 安装与配置
 
-**下载项目**: https://download.llxoxll.com/latest/yanqu_mixed_cut_v2
+-   **下载链接**: https://download.llxoxll.com/latest/yanqu_mixed_cut_v2
 
 ## 📖 使用指南
 
