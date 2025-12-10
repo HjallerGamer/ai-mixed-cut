@@ -58,9 +58,9 @@
 ## 📸 软件截图
 
 <p align="center">
-  <img src="./assets/images/software_ui.png" alt="软件主界面" width="800"/>
+  <img src="./images/cover_software.png" alt="软件主界面" width="800"/>
   <br>
-  <em>软件主界面，三大模块化工作流清晰可见。</em>
+  <em>软件主界面，四大模块化工作流清晰可见。</em>
 </p>
 
 ## 🚀 快速开始
