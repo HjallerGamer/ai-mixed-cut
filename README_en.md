@@ -131,3 +131,16 @@ This project redefines video content re-creation with a three-phase intelligent 
 -   **[AI TTV Workflow](https://github.com/toki-plus/ai-ttv-workflow)**: An AI-powered Text-to-Video tool that automatically converts any script into a short video with voiceover, subtitles, and a cover, supporting script extraction/re-creation/translation.
 -   **[AB Video Deduplicator](https://github.com/toki-plus/AB-Video-Deduplicator)**: Utilizes an innovative "High-Framerate Frame-Mixing" technique to fundamentally alter a video's data fingerprint, designed to bypass originality detection/deduplication mechanisms on major short-video platforms.
 -   **[Video Mover](https://github.com/toki-plus/video-mover)**: A fully automated content creation pipeline that monitors and downloads videos, performs multi-dimensional deduplication, generates AI titles, and publishes to multiple platforms with one click.
+
+## 🤝 Contributing
+
+Contributions of any kind are welcome! If you have ideas for new features, found a bug, or have any suggestions for improvement, please:
+-   Submit an [Issue](https://github.com/toki-plus/ai-mixed-cut/issues) to start a discussion.
+-   Fork this repository and submit a [Pull Request](https://github.com/toki-plus/ai-mixed-cut/pulls).
+
+If this project has been helpful to you, please consider giving it a ⭐!
+
+## 📜 License
+
+
+This project is open-sourced under the MIT License. See the [LICENSE](LICENSE) file for details.
